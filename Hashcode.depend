@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519938844 source:c:\users\manpu\onedrive\desktop\hashcode\hashcode.cpp
+	<fstream>
+	<algorithm>
+	<cmath>
+
